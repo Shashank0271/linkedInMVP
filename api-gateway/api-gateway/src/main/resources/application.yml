@@ -1,0 +1,51 @@
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+  instance:
+    prefer-ip-address: true
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/linkedin
+    username: shashank
+    password: shashank
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: create
+    database: postgresql
+    show-sql: true
+
+  cloud:
+    gateway:
+      routes:
+        - id: user-service
+          uri: lb://USER-SERVICE
+          predicates:
+            - Path=/api/v1/users/**
+          filters:
+            - StripPrefix=2
+
+        - id: posts-service
+          uri: lb://POSTS-SERVICE
+          predicates:
+            - Path=/api/v1/posts/**
+          filters:
+            - StripPrefix=2
+            - name: AuthenticationFilter
+
+        - id: connections-service
+          uri: lb://CONNECTIONS-SERVICE
+          predicates:
+            - Path=/api/v1/connections/**
+          filters:
+            - StripPrefix=2
+            - name: AuthenticationFilter
+
+
+server:
+  port: 8086
