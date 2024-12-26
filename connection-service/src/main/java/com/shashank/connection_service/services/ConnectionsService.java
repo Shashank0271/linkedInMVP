@@ -55,5 +55,13 @@ public class ConnectionsService {
         return true;
     }
 
+    public Boolean rejectConnectionRequest(Long senderId) {
+        Long receiverId = UserContextHolder.getCurrentUserId();
+
+        log.info("User id : {} has rejected con req by user id {}", receiverId, senderId);
+        personRepository.rejectConnectionRequest(senderId, receiverId);
+        return true;
+    }
+
 }
 

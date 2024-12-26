@@ -37,4 +37,9 @@ public class ConnectionsController {
         return ResponseEntity.ok(connectionsService.acceptConnectionRequest(userId));
     }
 
+    @DeleteMapping("/reject/{userId}")
+    public ResponseEntity<Boolean> rejectConnectionRequest(@PathVariable Long userId) {
+        return ResponseEntity.ok(connectionsService.rejectConnectionRequest(userId));
+    }
+
 }
