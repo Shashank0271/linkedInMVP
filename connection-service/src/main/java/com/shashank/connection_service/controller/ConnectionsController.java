@@ -4,7 +4,6 @@ import com.shashank.connection_service.entities.Person;
 import com.shashank.connection_service.services.ConnectionsService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
@@ -30,6 +29,12 @@ public class ConnectionsController {
 
     @PostMapping("/request/{userId}")
     public ResponseEntity<Boolean> sendConnectionRequest(@PathVariable Long userId) {
-        return new ResponseEntity<>(connectionsService.sendConnectionRequest(userId), HttpStatus.CREATED);
+        return ResponseEntity.ok(connectionsService.sendConnectionRequest(userId));
     }
+
+    @PostMapping("/accept/{userId}")
+    public ResponseEntity<Boolean> acceptConnectionRequest(@PathVariable Long userId) {
+        return ResponseEntity.ok(connectionsService.acceptConnectionRequest(userId));
+    }
+
 }

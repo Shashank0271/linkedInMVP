@@ -45,5 +45,15 @@ public class ConnectionsService {
         return true;
     }
 
+    public Boolean acceptConnectionRequest(Long senderId) {
+        Long receiverId = UserContextHolder.getCurrentUserId();
+
+        if (personRepository.checkForConnection(senderId, receiverId))
+            throw new RuntimeException("users are already connected !");
+        log.info("User id : {} accepted connection request from sender Id : {}", receiverId, senderId);
+        personRepository.addConnection(senderId, receiverId);
+        return true;
+    }
+
 }
 
