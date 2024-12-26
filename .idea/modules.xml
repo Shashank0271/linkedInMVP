@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Linkedin.iml" filepath="$PROJECT_DIR$/.idea/Linkedin.iml" />
       <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway/api-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/connection-service/connection-service.iml" filepath="$PROJECT_DIR$/connection-service/connection-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/discovery-server/discovery-server.iml" filepath="$PROJECT_DIR$/discovery-server/discovery-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/posts-service/posts-service.iml" filepath="$PROJECT_DIR$/posts-service/posts-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/user-service/user-service.iml" filepath="$PROJECT_DIR$/user-service/user-service.iml" />

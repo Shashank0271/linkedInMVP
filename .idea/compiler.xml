@@ -9,10 +9,20 @@
         <outputRelativeToContentRoot value="true" />
         <module name="api-gateway" />
         <module name="posts-service" />
-        <module name="config-server" />
         <module name="connection-service" />
+        <module name="config-server" />
         <module name="user-service" />
         <module name="discovery-server" />
+      </profile>
+      <profile name="Annotation profile for notification-service" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
+        </processorPath>
+        <module name="notification-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -25,6 +35,7 @@
       <module name="config-server" options="-parameters" />
       <module name="connection-service" options="-parameters" />
       <module name="discovery-server" options="-parameters" />
+      <module name="notification-service" options="-parameters" />
       <module name="posts-service" options="-parameters" />
       <module name="posts-service (1)" options="-parameters" />
       <module name="user-service" options="-parameters" />

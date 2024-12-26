@@ -1,0 +1,34 @@
+spring.application.name: notification-service
+spring:
+
+  config:
+    import:
+      - configserver:http://localhost:8888
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/linkedin
+    username: shashank
+    password: shashank
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: create
+    database: postgresql
+    show-sql: true
+
+  kafka:
+    bootstrap-servers: localhost:9092
+    consumer:
+      group-id: ${spring.application.name}
+      key-deserializer: org.apache.kafka.common.serialization.LongDeserializer
+      value-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer
+      properties:
+        spring.json:
+          trusted.packages: com.*
+
+server:
+  port: 9010
+  servlet:
+    context-path: /notifications
+
