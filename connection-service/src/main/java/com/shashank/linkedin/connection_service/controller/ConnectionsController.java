@@ -1,7 +1,7 @@
-package com.shashank.connection_service.controller;
+package com.shashank.linkedin.connection_service.controller;
 
-import com.shashank.connection_service.entities.Person;
-import com.shashank.connection_service.services.ConnectionsService;
+import com.shashank.linkedin.connection_service.entities.Person;
+import com.shashank.linkedin.connection_service.services.ConnectionsService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;

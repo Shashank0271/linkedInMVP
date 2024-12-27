@@ -1,4 +1,4 @@
-package com.shashank.connection_service.entities;
+package com.shashank.linkedin.connection_service.entities;
 
 import lombok.Data;
 import org.springframework.data.neo4j.core.schema.GeneratedValue;

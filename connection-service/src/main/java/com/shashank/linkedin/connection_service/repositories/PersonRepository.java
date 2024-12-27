@@ -1,6 +1,6 @@
-package com.shashank.connection_service.repositories;
+package com.shashank.linkedin.connection_service.repositories;
 
-import com.shashank.connection_service.entities.Person;
+import com.shashank.linkedin.connection_service.entities.Person;
 import org.springframework.data.neo4j.repository.Neo4jRepository;
 import org.springframework.data.neo4j.repository.query.Query;
 

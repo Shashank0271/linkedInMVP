@@ -1,4 +1,4 @@
-package com.shashank.connection_service;
+package com.shashank.linkedin.connection_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

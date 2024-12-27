@@ -1,4 +1,4 @@
-package com.shashank.connection_service.auth;
+package com.shashank.linkedin.connection_service.auth;
 
 import feign.RequestInterceptor;
 import feign.RequestTemplate;

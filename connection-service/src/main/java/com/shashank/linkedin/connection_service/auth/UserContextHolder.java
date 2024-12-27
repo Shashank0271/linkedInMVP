@@ -1,4 +1,4 @@
-package com.shashank.connection_service.auth;
+package com.shashank.linkedin.connection_service.auth;
 
 public class UserContextHolder {
     private static final ThreadLocal<Long> currentUserId =
