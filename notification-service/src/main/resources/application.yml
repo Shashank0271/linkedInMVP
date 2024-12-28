@@ -1,4 +1,5 @@
 spring.application.name: notification-service
+
 spring:
 
   config:

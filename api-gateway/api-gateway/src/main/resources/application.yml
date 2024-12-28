@@ -49,3 +49,7 @@ spring:
 
 server:
   port: 8086
+
+#micrometer
+management.tracing.sampling.probability: 1.0
+spring.zipkin.baseUrl: http://localhost:9411

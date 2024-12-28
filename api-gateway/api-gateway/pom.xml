@@ -78,6 +78,7 @@
             <version>3.2.0</version>
         </dependency>
 
+        <!-- EUREKA -->
         <dependency>
             <groupId>org.springframework.cloud
             </groupId>
@@ -108,7 +109,7 @@
             </artifactId>
         </dependency>
 
-        <!--        JWT-->
+        <!-- JWT-->
         <dependency>
             <groupId>io.jsonwebtoken</groupId>
             <artifactId>jjwt-api</artifactId>
@@ -127,6 +128,31 @@
             <scope>runtime</scope>
         </dependency>
 
+
+        <!-- TRACING -->
+        <dependency>
+            <groupId>io.micrometer</groupId>
+            <artifactId>micrometer-observation
+            </artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.micrometer</groupId>
+            <artifactId>
+                micrometer-tracing-bridge-brave
+            </artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.zipkin.reporter2</groupId>
+            <artifactId>zipkin-reporter-brave
+            </artifactId>
+        </dependency>
+        <!--         https://mvnrepository.com/artifact/io.github.openfeign/feign-micrometer -->
+        <dependency>
+            <groupId>io.github.openfeign</groupId>
+            <artifactId>feign-micrometer
+            </artifactId>
+        </dependency>
+        
     </dependencies>
 
     <dependencyManagement>
