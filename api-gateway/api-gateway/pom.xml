@@ -152,7 +152,7 @@
             <artifactId>feign-micrometer
             </artifactId>
         </dependency>
-        
+
     </dependencies>
 
     <dependencyManagement>

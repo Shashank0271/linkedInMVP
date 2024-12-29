@@ -21,8 +21,8 @@ public class AuthenticationFilter extends AbstractGatewayFilterFactory<Authentic
     @Override
     public GatewayFilter apply(Config config) {
         return (exchange, chain) -> {
-            log.info("Logging info : {}", exchange.getRequest()
-                    .getURI());
+            log.debug("Logging info : {}", exchange.getRequest()
+                                                   .getURI());
 
             final String tokenHeader =
                     exchange.getRequest().getHeaders().getFirst(
@@ -39,8 +39,8 @@ public class AuthenticationFilter extends AbstractGatewayFilterFactory<Authentic
             String userID = jwtService.getUserIdFromToken(token);
 
             return chain.filter(exchange.mutate()
-                    .request(r -> r.header("X-User-Id", userID))
-                    .build());
+                                        .request(r -> r.header("X-User-Id", userID))
+                                        .build());
         };
     }
 
