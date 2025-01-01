@@ -1,0 +1,432 @@
+01-01-2025 20:40:00.8330 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:01.0010 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:01.8560 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:01.8600 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:02.8760 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:02.8810 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:03.8790 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:03.8840 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:04.8600 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:04.8650 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:05.8910 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:05.8940 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:06.8970 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:06.9010 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:07.9000 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:07.9070 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:08.8430 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:08.8480 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:09.8480 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:09.8500 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:10.8520 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:10.8560 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:11.8550 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:11.8600 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:12.8580 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:12.8650 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:13.8620 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:13.8700 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:14.8680 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:14.8720 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:15.8710 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:15.8760 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:16.3940 [INFO ] c.n.d.s.t.d.RedirectingEurekaHttpClient [DiscoveryClient-HeartbeatExecutor-%d] [-]  ---  Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/}, exception=I/O error on PUT request for "http://localhost:8761/eureka/apps/POSTS-SERVICE/10.255.255.254:posts-service:8000": Connect to http://localhost:8761 [localhost/127.0.0.1] failed: Connection refused stacktrace=org.springframework.web.client.ResourceAccessException: I/O error on PUT request for "http://localhost:8761/eureka/apps/POSTS-SERVICE/10.255.255.254:posts-service:8000": Connect to http://localhost:8761 [localhost/127.0.0.1] failed: Connection refused
+	at org.springframework.web.client.RestTemplate.createResourceAccessException(RestTemplate.java:926)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:906)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:841)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:702)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.sendHeartBeat(RestTemplateEurekaHttpClient.java:119)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:121)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:80)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:845)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1402)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: org.apache.hc.client5.http.HttpHostConnectException: Connect to http://localhost:8761 [localhost/127.0.0.1] failed: Connection refused
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:672)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:547)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:602)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:216)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:490)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:164)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:174)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:144)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:150)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:113)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:174)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:99)
+	at org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:71)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:81)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:117)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateTransportClientFactory.lambda$restTemplate$3(RestTemplateTransportClientFactory.java:141)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:88)
+	at org.springframework.http.client.InterceptingClientHttpRequest.executeInternal(InterceptingClientHttpRequest.java:72)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:81)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:900)
+	... 20 more
+
+01-01-2025 20:40:16.3950 [WARN ] c.n.d.s.t.d.RetryableEurekaHttpClient [DiscoveryClient-HeartbeatExecutor-%d] [-]  ---  Request execution failed with message: I/O error on PUT request for "http://localhost:8761/eureka/apps/POSTS-SERVICE/10.255.255.254:posts-service:8000": Connect to http://localhost:8761 [localhost/127.0.0.1] failed: Connection refused
+01-01-2025 20:40:16.3950 [ERROR] c.netflix.discovery.DiscoveryClient [DiscoveryClient-HeartbeatExecutor-%d] [-]  ---  DiscoveryClient_POSTS-SERVICE/10.255.255.254:posts-service:8000 - was unable to send heartbeat!
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:845)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1402)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+01-01-2025 20:40:16.3950 [INFO ] c.n.d.s.t.d.RedirectingEurekaHttpClient [DiscoveryClient-CacheRefreshExecutor-%d] [-]  ---  Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/}, exception=I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to http://localhost:8761 [localhost/127.0.0.1] failed: Connection refused stacktrace=org.springframework.web.client.ResourceAccessException: I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to http://localhost:8761 [localhost/127.0.0.1] failed: Connection refused
+	at org.springframework.web.client.RestTemplate.createResourceAccessException(RestTemplate.java:926)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:906)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:841)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:702)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.getApplicationsInternal(RestTemplateEurekaHttpClient.java:174)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.getDelta(RestTemplateEurekaHttpClient.java:186)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:121)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:80)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.DiscoveryClient.getAndUpdateDelta(DiscoveryClient.java:1080)
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:963)
+	at com.netflix.discovery.DiscoveryClient.refreshRegistry(DiscoveryClient.java:1473)
+	at com.netflix.discovery.DiscoveryClient$CacheRefreshThread.run(DiscoveryClient.java:1441)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: org.apache.hc.client5.http.HttpHostConnectException: Connect to http://localhost:8761 [localhost/127.0.0.1] failed: Connection refused
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:672)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:547)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:602)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:216)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:490)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:164)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:174)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:144)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:150)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:113)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:174)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:99)
+	at org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:71)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:81)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:117)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateTransportClientFactory.lambda$restTemplate$3(RestTemplateTransportClientFactory.java:141)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:88)
+	at org.springframework.http.client.InterceptingClientHttpRequest.executeInternal(InterceptingClientHttpRequest.java:72)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:81)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:900)
+	... 23 more
+
+01-01-2025 20:40:16.3980 [WARN ] c.n.d.s.t.d.RetryableEurekaHttpClient [DiscoveryClient-CacheRefreshExecutor-%d] [-]  ---  Request execution failed with message: I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to http://localhost:8761 [localhost/127.0.0.1] failed: Connection refused
+01-01-2025 20:40:16.3990 [INFO ] c.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-%d] [-]  ---  DiscoveryClient_POSTS-SERVICE/10.255.255.254:posts-service:8000 - was unable to refresh its cache! This periodic background refresh will be retried in 30 seconds. status = Cannot execute request on any known server stacktrace = com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.DiscoveryClient.getAndUpdateDelta(DiscoveryClient.java:1080)
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:963)
+	at com.netflix.discovery.DiscoveryClient.refreshRegistry(DiscoveryClient.java:1473)
+	at com.netflix.discovery.DiscoveryClient$CacheRefreshThread.run(DiscoveryClient.java:1441)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+01-01-2025 20:40:16.8780 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:16.8820 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:17.8800 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:17.8880 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:18.8520 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:18.8580 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:19.8140 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:19.8190 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:20.8150 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:20.8150 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:21.7090 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:21.7180 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:22.6780 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:22.6850 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:23.6790 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:23.6820 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:24.7140 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:24.7170 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:25.7170 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:25.7200 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:26.7620 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:26.7680 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:27.6790 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:27.6800 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:28.6250 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:28.6290 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:29.6260 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:29.6270 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:30.5390 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:30.5400 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:31.5510 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:31.5510 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:32.5660 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:32.5670 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:33.5680 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:33.5720 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:34.4910 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:34.4970 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:35.3360 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:35.3410 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:36.3380 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:36.3450 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:37.2490 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:37.2510 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:38.2460 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:38.2490 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:39.2860 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:39.2870 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:40.2550 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:40.2610 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:41.1760 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:41.1770 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:42.1800 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:42.1830 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:43.2220 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:43.2230 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:43.7610 [INFO ] c.n.d.s.t.d.RedirectingEurekaHttpClient [DiscoveryClient-HeartbeatExecutor-%d] [-]  ---  Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/}, exception=I/O error on PUT request for "http://localhost:8761/eureka/apps/POSTS-SERVICE/10.255.255.254:posts-service:8000": Connect to http://localhost:8761 [localhost/127.0.0.1] failed: Connection refused stacktrace=org.springframework.web.client.ResourceAccessException: I/O error on PUT request for "http://localhost:8761/eureka/apps/POSTS-SERVICE/10.255.255.254:posts-service:8000": Connect to http://localhost:8761 [localhost/127.0.0.1] failed: Connection refused
+	at org.springframework.web.client.RestTemplate.createResourceAccessException(RestTemplate.java:926)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:906)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:841)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:702)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.sendHeartBeat(RestTemplateEurekaHttpClient.java:119)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:121)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:80)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:845)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1402)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: org.apache.hc.client5.http.HttpHostConnectException: Connect to http://localhost:8761 [localhost/127.0.0.1] failed: Connection refused
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:672)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:547)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:602)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:216)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:490)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:164)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:174)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:144)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:150)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:113)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:174)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:99)
+	at org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:71)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:81)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:117)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateTransportClientFactory.lambda$restTemplate$3(RestTemplateTransportClientFactory.java:141)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:88)
+	at org.springframework.http.client.InterceptingClientHttpRequest.executeInternal(InterceptingClientHttpRequest.java:72)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:81)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:900)
+	... 20 more
+
+01-01-2025 20:40:43.7620 [WARN ] c.n.d.s.t.d.RetryableEurekaHttpClient [DiscoveryClient-HeartbeatExecutor-%d] [-]  ---  Request execution failed with message: I/O error on PUT request for "http://localhost:8761/eureka/apps/POSTS-SERVICE/10.255.255.254:posts-service:8000": Connect to http://localhost:8761 [localhost/127.0.0.1] failed: Connection refused
+01-01-2025 20:40:43.7620 [ERROR] c.netflix.discovery.DiscoveryClient [DiscoveryClient-HeartbeatExecutor-%d] [-]  ---  DiscoveryClient_POSTS-SERVICE/10.255.255.254:posts-service:8000 - was unable to send heartbeat!
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:845)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1402)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+01-01-2025 20:40:43.7700 [INFO ] c.n.d.s.t.d.RedirectingEurekaHttpClient [DiscoveryClient-CacheRefreshExecutor-%d] [-]  ---  Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:8761/eureka/}, exception=I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to http://localhost:8761 [localhost/127.0.0.1] failed: Connection refused stacktrace=org.springframework.web.client.ResourceAccessException: I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to http://localhost:8761 [localhost/127.0.0.1] failed: Connection refused
+	at org.springframework.web.client.RestTemplate.createResourceAccessException(RestTemplate.java:926)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:906)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:841)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:702)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.getApplicationsInternal(RestTemplateEurekaHttpClient.java:174)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateEurekaHttpClient.getDelta(RestTemplateEurekaHttpClient.java:186)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:121)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:80)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.DiscoveryClient.getAndUpdateDelta(DiscoveryClient.java:1080)
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:963)
+	at com.netflix.discovery.DiscoveryClient.refreshRegistry(DiscoveryClient.java:1473)
+	at com.netflix.discovery.DiscoveryClient$CacheRefreshThread.run(DiscoveryClient.java:1441)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+Caused by: org.apache.hc.client5.http.HttpHostConnectException: Connect to http://localhost:8761 [localhost/127.0.0.1] failed: Connection refused
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:672)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:547)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:602)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+	at java.base/java.net.Socket.connect(Socket.java:633)
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:216)
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:490)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:164)
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:174)
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:144)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:150)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:113)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51)
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:174)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87)
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:99)
+	at org.springframework.http.client.AbstractStreamingClientHttpRequest.executeInternal(AbstractStreamingClientHttpRequest.java:71)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:81)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:117)
+	at org.springframework.cloud.netflix.eureka.http.RestTemplateTransportClientFactory.lambda$restTemplate$3(RestTemplateTransportClientFactory.java:141)
+	at org.springframework.http.client.InterceptingClientHttpRequest$InterceptingRequestExecution.execute(InterceptingClientHttpRequest.java:88)
+	at org.springframework.http.client.InterceptingClientHttpRequest.executeInternal(InterceptingClientHttpRequest.java:72)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:81)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:900)
+	... 23 more
+
+01-01-2025 20:40:43.7720 [WARN ] c.n.d.s.t.d.RetryableEurekaHttpClient [DiscoveryClient-CacheRefreshExecutor-%d] [-]  ---  Request execution failed with message: I/O error on GET request for "http://localhost:8761/eureka/apps/delta": Connect to http://localhost:8761 [localhost/127.0.0.1] failed: Connection refused
+01-01-2025 20:40:43.7740 [INFO ] c.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-%d] [-]  ---  DiscoveryClient_POSTS-SERVICE/10.255.255.254:posts-service:8000 - was unable to refresh its cache! This periodic background refresh will be retried in 30 seconds. status = Cannot execute request on any known server stacktrace = com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$7.execute(EurekaHttpClientDecorator.java:152)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:76)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.getDelta(EurekaHttpClientDecorator.java:149)
+	at com.netflix.discovery.DiscoveryClient.getAndUpdateDelta(DiscoveryClient.java:1080)
+	at com.netflix.discovery.DiscoveryClient.fetchRegistry(DiscoveryClient.java:963)
+	at com.netflix.discovery.DiscoveryClient.refreshRegistry(DiscoveryClient.java:1473)
+	at com.netflix.discovery.DiscoveryClient$CacheRefreshThread.run(DiscoveryClient.java:1441)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+01-01-2025 20:40:44.2760 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:44.2800 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:45.1310 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:45.1320 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:46.1620 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:46.1670 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:47.1760 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:47.1800 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:48.2110 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:48.2120 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:49.1650 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:49.1710 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:50.1750 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:50.1760 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:51.0960 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:51.0970 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:51.9880 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:51.9910 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:53.0100 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:53.0100 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:53.9370 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:53.9430 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:54.8900 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:54.8910 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:55.7260 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:55.7270 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:56.6670 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:56.6680 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:57.6700 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:57.6740 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:58.7180 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:58.7180 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
+01-01-2025 20:40:59.7290 [INFO ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Node 1 disconnected.
+01-01-2025 20:40:59.7330 [WARN ] o.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | posts-service-producer-1] [-]  ---  [Producer clientId=posts-service-producer-1] Connection to node 1 (localhost/127.0.0.1:9092) could not be established. Node may not be available.
