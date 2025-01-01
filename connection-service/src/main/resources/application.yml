@@ -1,6 +1,6 @@
 spring:
-  kafka:
-    bootstrap-server: 172.22.154.68:9092
-    producer:
-      key-serializer: org.apache.kafka.common.serialization.LongSerializer
-      value-serializer: org.springframework.kafka.support.serializer.JsonSerializer
+  application:
+    name: connections-service
+  config:
+    import: configserver:http://localhost:8888
+

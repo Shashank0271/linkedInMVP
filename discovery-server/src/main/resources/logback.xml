@@ -1,7 +1,7 @@
 <configuration>
 
-    <property name="LOG_FILE" value="discoveryServer"/>
-    <property name="LOG_PATTERN" value="%d{dd-MM-yyyy HH:mm:ss.SSSS} [%-5level] %logger{36} [%t] --- %m%n"/>
+    <property name="LOG_FILE" value="discovery-server"/>
+    <property name="LOG_PATTERN" value="%d{dd-MM-yyyy HH:mm:ss.SSSS} [%-5level] %logger{36} [%t] [%X{traceId}-%X{spanId}]  ---  %m%n"/>
 
     <!-- appender and logger configs goes here -->
     <appender name="myConsoleAppender"
@@ -16,10 +16,11 @@
     <appender name="myFileAppender"
               class="ch.qos.logback.core.rolling.RollingFileAppender">
 
-        <file>${LOG_FILE}.log</file>
+        <file>../logs/${LOG_FILE}/${LOG_FILE}.log</file>
 
         <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
-            <fileNamePattern>${LOG_FILE}-%d{yy-MM-dd_HH-mm}.%i.log</fileNamePattern>
+<!--            every minute there is a new file generated with index 0 , in that minute if the size exceeds 20MB , index will start to increment -->
+            <fileNamePattern>../logs/${LOG_FILE}/${LOG_FILE}-%d{yy-MM-dd_HH}.%i.log</fileNamePattern>
             <maxFileSize>20MB</maxFileSize>
             <maxHistory>5</maxHistory>
         </rollingPolicy>
