@@ -9,12 +9,14 @@ import com.shashank.linkedin.posts_service.exceptions.ResourceNotFoundException;
 import com.shashank.linkedin.posts_service.repositories.PostRepository;
 import com.shashank.linkedin.posts_service.services.PostsService;
 import lombok.RequiredArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
 import org.modelmapper.ModelMapper;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+@Slf4j
 @Service
 @RequiredArgsConstructor
 public class PostServiceImpl implements PostsService {
@@ -24,6 +26,8 @@ public class PostServiceImpl implements PostsService {
 
     @Override
     public PostDto createPost(PostCreateRequestDto postCreateRequestDto) {
+
+        log.info("creating post ---------------------");
         Long userId = UserContextHolder.getCurrentUserId();
         Post post = Post.builder()
                         .content(postCreateRequestDto.getContent())
